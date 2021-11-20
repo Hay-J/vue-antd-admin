@@ -13,10 +13,10 @@ npm install（被墙可以用cnpm或yarn）
 ```
 npm run dev
 ```
-## 4. 浏览器'http://localhost:8080/'预览
+## 4. 浏览器打开http://localhost:8080/
 
 
-##其他
+## 其他
 ### Compiles and minifies for production
 ```
 npm run build
