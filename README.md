@@ -1,20 +1,22 @@
 # vue-antd-admin
-## 将仓库拉到本地或者下载到本地
-···
-
-git clone 
-···
-
-## Project setup
+## 1. 将仓库拉到本地或者下载到本地
 ```
-npm install
+git clone https://github.com/Hay-J/vue-antd-admin.git
 ```
 
-### Compiles and hot-reloads for development
+## 2. 进入项目目录安装依赖
 ```
-npm run serve
+npm install（被墙可以用cnpm或yarn）
 ```
 
+## 3. 运行开发时环境
+```
+npm run dev
+```
+## 4. 浏览器'http://localhost:8080/'预览
+
+
+##其他
 ### Compiles and minifies for production
 ```
 npm run build
