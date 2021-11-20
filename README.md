@@ -1,4 +1,9 @@
 # vue-antd-admin
+## 将仓库拉到本地或者下载到本地
+···
+
+git clone 
+···
 
 ## Project setup
 ```
